@@ -190,7 +190,3 @@
   diff = true
   status = true
   show-branch = true
-    
-[user]
-    name = Levey
-    email = levey.zhu@gmail.com
